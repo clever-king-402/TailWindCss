@@ -11,30 +11,4 @@ h1, h2, h3, h4, h5, p, button {
 
 .btn {
   font-family: "IBM Plex Mono", monospace;
-}
-
-.front-page {
-  color: white;
-  background-color: #000;
-}
-
-.hero {
-  height: 600px;
-}
-.hero .hero-image {
-  width: 350px;
-  height: 350px;
-}
-
-.case-study-topic {
-  width: 650px;
-}
-
-.container {
-  width: 1170px;
-}
-
-.case img {
-  width: 450px;
-  height: 300px;
-}/*# sourceMappingURL=style.css.map */
+}/*# sourceMappingURL=var.css.map */
